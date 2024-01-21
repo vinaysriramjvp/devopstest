@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>Udemy Integration Lightning</label>
+    <navType>Standard</navType>
+    <tabs>standard-home</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>qb_Invoice__c</tabs>
+    <tabs>qb_Payment__c</tabs>
+    <tabs>qb_Employee__c</tabs>
+    <tabs>fr_Ticket__c</tabs>
+    <tabs>LinkedIn_Post__c</tabs>
+    <tabs>LogoutEvent__c</tabs>
+    <tabs>Employ__c</tabs>
+    <tabs>Udemy_Integration__c</tabs>
+    <tabs>Custom_Test__c</tabs>
+    <tabs>Language_Course__c</tabs>
+    <tabs>Language_Course_Designer__c</tabs>
+    <uiType>Lightning</uiType>
+</CustomApplication>
